@@ -1,0 +1,3 @@
+/Users/kiran/Documents/GitHub/evse-fault-injector/build/CMakeFiles/evse_fault_injector.dir
+/Users/kiran/Documents/GitHub/evse-fault-injector/build/CMakeFiles/edit_cache.dir
+/Users/kiran/Documents/GitHub/evse-fault-injector/build/CMakeFiles/rebuild_cache.dir
